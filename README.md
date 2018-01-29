@@ -6,6 +6,7 @@
 A compatibility-based "FriendFinder" application a dating app. This full-stack site will take in results your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. 
 
 ____________________________________________________________________________________________________________________________________
+## Instructions
 
 Your survey should have 10 questions of your choosing. Each answer should be on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
 Your server.js file should require the basic npm packages we've used in class: express, body-parser and path.
@@ -48,7 +49,7 @@ ________________________________________________________________________________
    #### 6. Server
    * server.js
 
-## Instructions
+
 
 
 
