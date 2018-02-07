@@ -10,7 +10,7 @@ module.exports = function(app) {
 
   // API GET
   // Code handles when users "visit" a page.
-  /
+  
 
   app.get("/api/friends", function(req, res) {
     res.json(friends);
