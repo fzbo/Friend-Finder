@@ -84,8 +84,8 @@ var friends = [
     ]
   },
   {
-    name: "Minnie Mouse",
-    photo: "https://www.disneyclips.com/funstuff/images/oldminnie.gif",
+    name: "Wonder Woman",
+    photo: "http://www.omega-level.net/wp-content/uploads/2017/10/wonder-woman-2-filming-summer-2018.jpg",
     scores: [
       "4",
       "4",
